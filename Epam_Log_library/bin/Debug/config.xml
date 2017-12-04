@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+  <appSettings>
+        <path value="C:\Users\admin\Documents\Visual Studio 2015\Projects" />
+    <!-- supporting format: plain, xml, json -->
+        <format value="plain" />  
+    <!--levels: debug, error, info, warning, all-->
+        <level value="info" />
+  </appSettings>
+
+</configuration> 
