@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Log_library\Epam_Log_library\bin\Release\Epam_Log_library.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Log_library\Epam_Log_library\bin\Release\Epam_Log_library.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Log_library\Epam_Log_library\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Log_library\Epam_Log_library\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Log_library\Epam_Log_library\obj\Release\Epam_Log_library.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Log_library\Epam_Log_library\obj\Release\Epam_Log_library.pdb

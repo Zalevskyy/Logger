@@ -153,4 +153,3 @@ namespace Epam_Log_library
         }
     }
 }
-}
